@@ -1,5 +1,5 @@
-# micro-compra-carro
-Projeto de microservices de compra de carro.
+# micro-venda-auto
+Projeto de microservices de venda de carro.
 
 Tecnologias:
 Java 11
